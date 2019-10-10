@@ -1,0 +1,17 @@
+{
+  "name": "sscx0.3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "mongoose": "^5.7.3",
+    "restify": "^8.4.0",
+    "restify-errors": "^8.0.1"
+  }
+}
